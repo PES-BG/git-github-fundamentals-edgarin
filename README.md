@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Edgar Rolando Guzmán Fuentes
 
 ## 🤓 Course overview and learning outcomes 
 
